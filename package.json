@@ -1,6 +1,6 @@
 {
-  "name": "aula-responsive-ecommerce",
-  "version": "0.1.0",
+  "name": "cloth-showcase-eccomerce",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -15,7 +15,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "dev": "react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
